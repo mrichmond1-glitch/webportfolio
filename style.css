@@ -238,8 +238,8 @@ main {
     min-width: 300px;
     width: 100%;
     max-width: 450px;
-  
 }
+
 .overflow-scroll {
     overflow: scroll;
 }
