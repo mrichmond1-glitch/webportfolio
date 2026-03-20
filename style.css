@@ -231,6 +231,15 @@ main {
     margin: 2rem auto;
 }
 
+.nav-storyboards {
+    padding: 0rem;
+    margin: 2rem auto;
+}
+
+.nav-graphicdesign {
+    padding: 0rem;
+    margin: 2rem auto;
+}
 .nav-contact a{
     max-width: 300px;
 }
@@ -238,8 +247,8 @@ main {
     min-width: 300px;
     width: 100%;
     max-width: 450px;
+  
 }
-
 .overflow-scroll {
     overflow: scroll;
 }
