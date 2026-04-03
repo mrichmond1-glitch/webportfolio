@@ -141,6 +141,12 @@ main {
     background: #000000;
     border-radius: 15px;
     margin: 0 20%;
+    min-height: 60vh;
+}
+
+.embed-video {
+    height: 100%;
+    width: 100%;
 }
 
 .card-contact {
