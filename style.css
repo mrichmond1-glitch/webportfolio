@@ -111,7 +111,7 @@ nav img {
 }
 
 main {
-    max-width: 1200px;
+    /* max-width: 1200px; */
     margin: 0 auto;
     padding: 2rem;
 }
@@ -140,9 +140,15 @@ main {
     padding: 1rem;
     background: #000000;
     border-radius: 15px;
-    margin: auto;
-    max-width: 1000px;
+    margin: 0 20%;
+    min-height: 60vh;
 }
+
+.embed-video {
+    height: 100%;
+    width: 100%;
+}
+
 .card-contact {
     padding: 1rem;
     background: #1500ff;
@@ -246,7 +252,7 @@ main {
 .content img {
     min-width: 300px;
     width: 100%;
-    max-width: 450px;
+    /* max-width: 450px; */
   
 }
 .overflow-scroll {
